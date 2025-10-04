@@ -1,7 +1,7 @@
 from pygame import *
 from random import randint
 
-
+#wdawd
 init()
 window_size = 1200, 800
 window = display.set_mode(window_size)
